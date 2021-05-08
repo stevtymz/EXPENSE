@@ -1,4 +1,4 @@
-# Laravel 8 project for managing expenses and income
+# Laravel 8 project for managing expenses and income / still under improvement
 
 It was deveolped using  laravel quickadmin panel tool.
 
